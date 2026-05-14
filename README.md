@@ -4,10 +4,8 @@ Population PK/PD models developed for the METHOD trial.
 
 ## Contents
 
-- Population PK models
-- MGIT TTP PK/PD models
-- Diagnostic scripts
-- Simulation workflows
+- Full model parameters
+- Other relevant graphs and figures
 
 ## Software
 
